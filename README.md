@@ -13,7 +13,6 @@ Robot seguidor de línea de alta resolución diseñado para competencias de rob�
 
 - [Características](#-características)
 - [Especificaciones Técnicas](#-especificaciones-técnicas)
-- [Requisitos del Reglamento](#-requisitos-del-reglamento)
 - [Esquemático y PCB](#-esquemático-y-pcb)
 - [Instalación y Configuración](#-instalación-y-configuración)
 - [Estructura del Código](#-estructura-del-código)
