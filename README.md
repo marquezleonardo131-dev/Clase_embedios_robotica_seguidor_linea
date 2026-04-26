@@ -92,6 +92,8 @@ Robot seguidor de línea de alta resolución diseñado para competencias de rob�
 - [PlatformIO](https://platformio.org/) o [Arduino IDE](https://www.arduino.cc/)
 - Biblioteca para ESP32-C3 (instalada vía Boards Manager)
 
+![Robot en pruebas](https://github.com/marquezleonardo131-dev/Clase_embedios_robotica_seguidor_linea/blob/main/photo_pasguatin.jpeg?raw=true)
+
 ```bash
 git clone https://github.com/tuusuario/robot-seguidor-linea-16-sensores.git
 cd robot-seguidor-linea-16-sensores
