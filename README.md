@@ -1,7 +1,7 @@
 ## Clase_embedios_robotica_seguidor_linea
 #  Robot Seguidor de Línea - 16 Sensores
 
-![Versión](https://img.shields.io/badge/versión-1.0-blue)
+![Versión](https://img.shields.io/badge/versión-2.0-blue)
 ![ESP32](https://img.shields.io/badge/ESP32--C3-SuperMini-green)
 ![Licencia](https://img.shields.io/badge/licencia-MIT-yellow)
 
